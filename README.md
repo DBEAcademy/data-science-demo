@@ -1,4 +1,4 @@
-# data-science-demo
+# Data Science: Demo Projekt mit Beispielen
 Demo Dateien für Data Science Weiterbildung mit R und Python
 
 Weiterbildung zum Data Scientist: 
